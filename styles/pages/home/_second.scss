@@ -1,0 +1,127 @@
+.second__section {
+    max-width: 1440px;
+    height: 1056px;
+    margin: 0 auto;
+    padding-top: 11px;
+}
+    .second__container {
+        max-width: 1440px;
+        height: 656px;
+        margin: 0 auto;
+    }
+    .second__division {
+        width: 1220px;
+        margin: 0 auto;
+    }
+
+    .second__division h3 {
+        padding-top: 113px;
+        color: $text-color;
+        font-family: Oswald;
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 60px;
+    } 
+    .extra__section {
+        margin-top: 76px;
+        max-width: 1440px;
+        height: 462px;
+        background-color: #F2F2F2;
+    }
+
+    .second__division2 {
+        position: relative;
+        width: 1220px;
+        margin: 0 auto;
+        height: 462px;
+        background-color: #F2F2F2;
+    }
+    .second__division2 p {
+        padding-top: 70px;
+        font-family: Arial;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #444444;
+    }
+    .borders {
+        display: flex;
+        gap: 42px;
+        padding-top: 69px;
+    }
+        .first__border, .second__border {
+            width: 162px;
+            height: 77px;
+            border-radius: 5px;
+            border: 1px solid #CDCDCD;
+        }
+        .first__border h3, .second__border h3 {
+            padding-top: 15px;
+            font-family: Oswald;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 37px;
+            text-align: center;
+            color: $text-color;
+        }
+        .border__card {
+            position: absolute;
+            top: 305px;
+            left: 23px;
+            width: 117px;
+            height: 14px;
+            background-color: #F2F2F2;
+        }
+        .border__card2 {
+            position: absolute;
+            top: 305px;
+            left: 218px;
+            width: 135px;
+            height: 14px;
+            background-color: #F2F2F2;
+        }
+        .border__card p {
+            width: 97px;
+            position: absolute;
+            top: -72px;
+            left: 10px;
+            color: #444444;
+            font-family: Arial;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 14px;
+        }
+        .border__card2 p {
+            position: absolute;
+            top: -72px;
+            left: 5px;
+            width: 127px;
+            color: #444444;
+            font-family: Arial;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 14px; 
+        }
+        .second__division_title {
+            display: flex;
+            gap: 63px;
+        }
+        .second__division_title p {
+            color: $text-color;
+            font-family: Oswald;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 20px;
+            text-transform: uppercase;
+        }
+        .map {
+            width: 1440px;
+            height: 400px;
+            background-image: url('/images/Rectangle 16.jpg') ;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+
+
+ 
